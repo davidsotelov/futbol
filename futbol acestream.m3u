@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. LaLiga FHD (Multi-Audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="Live: Spain",VIP ES: M. LaLiga FHD (Multi-Audio)
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN LaLiga 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="Live: Spain",VIP ES: DAZN LaLiga 4K
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="Live: Spain",VIP ES: DAZN LaLiga FHD
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. Liga De Campeones FHD(Multi-Audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="Live: Spain",VIP ES: M. Liga De Campeones FHD(Multi-Audio)
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DAZN Bar 2 FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=aa25ce&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznbar02.png" group-title="Live: Germany",VIP DE: DAZN Bar 2 FHD
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 1 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_1_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 1 Fibra
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 1 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_1_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 1 Fibra
+acestream://97b6b65b24e84f9687e40e0f0bcadd151d2a3a65
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 1 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_1_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 1 Fibra
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 1 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_1_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 1 Fibra
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 2 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_2_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 2 Fibra
+acestream://d937b6dc4f54b90cbcda0cf3ee1c2238a2edbcd8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 2 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_2_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 2 Fibra
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 2 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_2_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 2 Fibra
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 3 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_3_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 3 Fibra
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 3 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_3_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 3 Fibra
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 4 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 4 Fibra
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 4 Fibra" tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png" group-title="Live: Portugal",VIP PT: Eleven Sport 4 Fibra
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven sports 5" group-title="Live: Portugal",VIP PT: Eleven Sport 5 Fibra
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 6 " group-title="Live: Portugal",VIP PT: Eleven Sport 6 Fibra
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LT: SETANTA SPORTS FHD" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle-thumbnail.png" group-title="Live: Baltic",VIP LT: SETANTA SPORTS FHD
+acestream://cc4d3932c9b97084c9da6094b456da216f8863a8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AZ: Setanta Sports Eurasia 1 HD" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="Live: Caucasus",AZ: Setanta Sports Eurasia 1 HD
+acestream://b99278331ad806f1463fcd3bf53befa5530d86da
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AZ: Setanta Sports Eurasia 1 HD" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="Live: Caucasus",AZ: Setanta Sports Eurasia 1 HD
+acestream://1317072b426d21df1b7666eceddb46bfab012b59
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AZ: Setanta Sports Eurasia 1 HD" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="Live: Caucasus",AZ: Setanta Sports Eurasia 1 HD
+acestream://75594806667040420dee6ed57926101d702566e8
+#EXTINF:-1 tvg-ID="DAZN DE" tvg-name="VIP DE: DAZN Bar 1 HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=b4d970&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznbar01.png" group-title="Live: Germany",VIP DE: DAZN Bar 1 HD
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DAZN Bar 2 FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=aa25ce&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznbar02.png" group-title="Live: Germany",VIP DE: DAZN Bar 2 FHD
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PREMIER SPORTS 1" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="Live: UK",PREMIER SPORTS 1
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PREMIER SPORTS 2" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/be1053602b884b605b72eaf9eb6fa7e5.png" group-title="Live: UK",PREMIER SPORTS 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
